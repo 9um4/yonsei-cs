@@ -10,4 +10,10 @@
     2. Relationship
        1. Relationship Set
        2. Cardinality
-
+    3. Attribute
+       1. Attribute Types
+          1. Simple Attribute
+          2. Composite Attribute
+          3. Single-valued Attribute
+          4. Multivalued Attribute
+          5. Derived Attribute
