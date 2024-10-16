@@ -19,3 +19,4 @@
           5. Derived Attribute
        2. Primary Key
     4. Entity-Relationship Diagram
+       1. Reduction to Relational Schema
