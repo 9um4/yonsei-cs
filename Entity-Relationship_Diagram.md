@@ -20,4 +20,5 @@ Database를 설계하는 과정에서 Entity, Attribute, Relationship 간의 구
 
 # 예시
 ![alt](img/Entity-Relationship_Diagram.svg)
+
 `student` 여러 명이 한 명의 `professor`를 `advisor`로서 가질 수 있으며 이에 따라 advise를 시작하는 날짜를 의미하는 `start date`라는 Attribute가 생성됨
