@@ -2,10 +2,8 @@
 
 ---
 
-# 개요
-- Database 설계를 위한 Diagram 형태의 Model
-- Database의 구조를 시각적으로 표현
-- Entity, Attribute, Relationship을 정의하고 이들 간의 상호작용을 보여줌
+# 의미
+- Database 설계를 위해 실제 세계의 Entity의 의미와 상호작용을 개념적 Schema로 표현한 것
 
 # 특징
 세 가지 기본 개념을 포함하고 있음
