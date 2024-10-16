@@ -17,3 +17,5 @@
           3. Single-valued Attribute
           4. Multivalued Attribute
           5. Derived Attribute
+       2. Primary Key
+    4. Entity-Relationship Diagram
