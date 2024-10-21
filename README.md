@@ -1,5 +1,9 @@
 # Lectures
 1. Chapter 01. Introduction
+   1. Database Management System
+   2. Data Models
+   3. Data Definition Language (DDL)
+   4. 
 2. Chapter 02. Intro to Relational Model
 3. Chapter 03. Introduction to SQL
 4. Chapter 04. Intermediate SQL
