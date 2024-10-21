@@ -7,7 +7,24 @@
    3. Data Definition Language (DDL)
    4. Data Manipulation Language (DML)
 2. Chapter 02. Intro to Relational Model
+   1. Relational Database
+      1. Relation
+      2. Relation Schema
+   2. Key
+   3. Relational Algebra
 3. Chapter 03. Introduction to SQL
+   1. Data Definition Language
+   2. Domain Types
+   3. Create Table
+   4. Update Table
+      1. Insert
+      2. Delete
+      3. Drop
+      4. Alter
+   5. Select
+      1. Cartesian Product
+   6. From
+   7. Where
 4. Chapter 04. Intermediate SQL
 5. Chapter 05. Advanced SQL
 6. Chapter 06. Entity-Relationship Model
