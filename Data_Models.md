@@ -4,6 +4,7 @@
 # 종류
 - Entity-Relationship model
 - Relation model
+  - 우리가 생각하는 일반적인 표
 - Object-oriented model
 - Semi-structured data model
 - Network model
